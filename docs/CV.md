@@ -7,31 +7,39 @@ permalink: /CV/
 
 
 
-Work & Research                                           
 
-2020 - present Biostatistician
-		Ava AG, Switzerland
-2018 - 2019	Project Lead / Monitoring & Evaluation Consultant
-		Social Change Factory, Senegal		
-2017 – 2018	Clinical Research Assistant, Provincial OCD Program
-		BC Children’s Hospital, Canada			
-2016 – 2017 	Neuroscience Research Assistant, Seamans’ Lab
-		University of British Columbia, Canada		
-2015		Psychology Research Assistant, Weber Lab
-		University of British Columbia, Canada		
-2014 – 2015	Psychology Research Assistant, Peer Relations in Childhood Lab
-		University of British Columbia, Canada		
-2013		Medical Research Assistant, UCLA Brain Tumor Program
-		University of California, Los Angeles, USA	
-2012 – 2013	Community Emergency Medical Technician
-		Deep Springs College, USA		
+### Work & Research Experience                                          
+
+* 2018 - 2019	Project Lead / Monitoring & Evaluation Consultant  
+ 
+   Social Change Factory, Senegal		
+* 2017 – 2018	Clinical Research Assistant, Provincial OCD Program
+
+   BC Children’s Hospital, Canada			
+* 2016 – 2017 	Neuroscience Research Assistant, Seamans’ Lab
+
+   University of British Columbia, Canada		
+* 2015		Psychology Research Assistant, Weber Lab
+
+   University of British Columbia, Canada		
+* 2014 – 2015	Psychology Research Assistant, Peer Relations in Childhood Lab
+
+   University of British Columbia, Canada		
+* 2013		Medical Research Assistant, UCLA Brain Tumor Program
+
+   University of California, Los Angeles, USA	
+* 2012 – 2013	Community Emergency Medical Technician
+
+   Deep Springs College, USA		
 
 
 
+---
 
-Education                                                                     
+### Education                                                                     
 
-2019 - present	 	University of Zurich
+
+2019 	 	University of Zurich
 		Masters of Science in Biostatistics – grade pending
 2016 – 2017 	Simon Fraser University, Canada
 		Computer Science (Diploma Program) – GPA 3.8/4
@@ -41,8 +49,9 @@ Education
 		Associate of Arts in Political Science / Philosophy – GPA 3.67/4
 
 
+---
 
-Teaching Experience                                                     
+### Teaching Experience                                                     
 
 Duties included: 	Lecturing, preparing and supervising seminar-style tutorials, advising, 			grading
 
@@ -51,16 +60,18 @@ Duties included: 	Lecturing, preparing and supervising seminar-style tutorials, 
 2015 – 2016 	Teaching Assistant, Psychology – University of B.C., Canada
 
 
+---
 
-Awards, Honours & Scholarships                                    
+### Awards, Honours & Scholarships                                    
 
 2015		UBC TA Award [Nominated]
 2015		McGill Graduate Excellence Fellowship -- $10,000 [Declined]
 2011 – 2013	Deep Springs College – Full Tuition Scholarship -- $100,000
 
 
+---
 
-Publications & Presentations                                         
+### Publications & Presentations                                         
 
 2017 Lindsay, A., Caracheo, B., Grewal, J., Leibovitz, D., and Seamans, J. How much does movement and location encoding impact prefrontal cortex activity? An algorithmic decoding approach in freely moving rats. Submission pending review by The Journal of Neuroscience.
 
@@ -69,21 +80,24 @@ Publications & Presentations
 2015 Leibovitz, D., Mikami, A., Huang-Pollock, C. L. Executive Functions as a Predictor of Peer-Relation Difficulties in Children with ADHD. Poster presentation at Canadian ADHD Resource Alliance Conference.
 
 
+---
 
-Skills                                                                            
+### Skills                                                                            
 
 Programming:		R        Python        Java        SQL        git
 
 
+---
 
-Relevant Coursework                                                     
+### Relevant Coursework                                                     
 
-Likelihood Inference, Generalized Regression, ANOVA, Clinical Biostatistics, Non-Parametric Regression, Survival Analysis, Multivariate Statistics, Information Retrieval, Machine Learning I, Statistical Methods in Epidemiology
-
-
+Likelihood Inference, Generalized Regression, ANOVA, Clinical Biostatistics, 			Survival Analysis, Multivariate Statistics, Computational Statistics, Information Retrieval
 
 
-Languages                                                                    
+
+---
+
+### Languages                                                                    
 
 English				Native
 French				Fluent
