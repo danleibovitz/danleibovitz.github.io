@@ -27,6 +27,7 @@ permalink: /CV/
 
 
 <br>
+<br>
 
 ---
 
@@ -42,6 +43,7 @@ permalink: /CV/
                       *Deep Springs College, USA*  
 
 <br>
+<br>
 
 ---
 
@@ -53,6 +55,7 @@ permalink: /CV/
 <b>2015 – 2016</b>   Teaching Assistant, Psychology – *University of B.C., Canada*  
 
 <br>
+<br>
 
 ---
 
@@ -62,6 +65,7 @@ permalink: /CV/
 <b>2015</b>               McGill Graduate Excellence Fellowship -- $10,000 (Declined)  
 <b>2011 – 2013</b>   Deep Springs College – Full Tuition Scholarship -- $100,000  
 
+<br>
 <br>
 
 ---
@@ -75,6 +79,7 @@ permalink: /CV/
 2015 **Leibovitz, D.**, Mikami, A., Huang-Pollock, C. L. Executive Functions as a Predictor of Peer-Relation Difficulties in Children with ADHD. Poster presentation at Canadian ADHD Resource Alliance Conference.
 
 <br>
+<br>
 
 ---
 
@@ -82,6 +87,7 @@ permalink: /CV/
 <br>
 R     Python     Java     SQL     git
 
+<br>
 <br>
 
 ---
@@ -91,14 +97,15 @@ R     Python     Java     SQL     git
 Likelihood Inference  /  Generalized Regression  /  ANOVA  /   Clinical Biostatistics  /  Survival Analysis  /  Multivariate Statistics  /  Machine Learning I  /  Statistical Methods in Epidemiology  /  Information Retrieval
 
 <br>
+<br>
 
 ---
 
 ### Languages                                                                    
 <br>
-English                                    *Native*  
-French                                    *Fluent*  
-Spanish                                  *Fluent*  
+English                                     *Native*  
+French                                     *Fluent*  
+Spanish                                   *Fluent*  
 American Sign Language      *Conversational*  
 
 
