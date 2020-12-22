@@ -21,7 +21,7 @@
 title: A Corner of the Internet
 email: danleibovitz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The collected thoughts of Daniel Leibovitz, biostatistician.
+  The collected thoughts of a biostatistician.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
