@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: A Corner of the Internet
+author: Daniel Leibovitz
 email: danleibovitz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The collected thoughts of a biostatistician.
